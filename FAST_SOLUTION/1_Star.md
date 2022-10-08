@@ -33,10 +33,10 @@
 #### Error Handling
 
 * Click login
-* Type single quote `'` for email and password
+* Type single quote `'` for email and password<br>
 __or__
 * Navigate to `http://localhost:3000/ftp/randomkey`
-* Navigate back to `localhost:3000`<br>
+* Navigate back to `localhost:3000`
 
 #### Missing Encoding
 
